@@ -4,6 +4,10 @@
   <h4>何これ？</h4>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/travis/merefu/yuuko?label=Travis%20CI&style=flat-square" />
+</div>
+
 ## Description
 TODO
 
