@@ -5,8 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/travis/merefu/yuuko?label=Travis%20CI&style=flat-square" />
-  <img src="https://img.shields.io/coveralls/github/merefu/yuuko?label=Coveralls&style=flat-square" />
+  <a href="https://travis-ci.org/merefu/yuuko">
+    <img src="https://img.shields.io/travis/merefu/yuuko?label=Travis%20CI&style=flat-square" />
+  </a>
+  <a href="https://coveralls.io/github/merefu/yuuko">
+    <img src="https://img.shields.io/coveralls/github/merefu/yuuko?label=Coveralls&style=flat-square" />
+  </a>
 </div>
 
 ## Description
